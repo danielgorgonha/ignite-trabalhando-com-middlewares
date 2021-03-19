@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Desafio 2 do Ignite - Trilha NodeJS</h1>
 <p align="center">
-  Desafio 01: Trabalhando com middlewares
+  Desafio 02: Trabalhando com middlewares
   <br>
   <img align="center" alialt="Ignite" src="./assets/ignite.png" />
 </p>
