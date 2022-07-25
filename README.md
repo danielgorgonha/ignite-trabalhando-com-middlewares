@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Desafio 2 do Ignite - Trilha NodeJS</h1>
+<h1 align="center">🚀 Chapter II do Ignite - Trilha NodeJS</h1>
 <p align="center">
   Desafio 02: Trabalhando com middlewares
   <br>
